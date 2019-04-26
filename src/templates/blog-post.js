@@ -17,8 +17,8 @@ import SEO from '../components/SEO';
 import Signup from '../components/Signup';
 import get from 'lodash/get';
 
-const GITHUB_USERNAME = 'gaearon';
-const GITHUB_REPO_NAME = 'overreacted.io';
+const GITHUB_USERNAME = 'paulbrittain';
+const GITHUB_REPO_NAME = 'paulbrittain.net';
 const systemFont = `system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
     "Droid Sans", "Helvetica Neue", sans-serif`;
