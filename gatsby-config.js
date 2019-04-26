@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'paulbrittain.net',
+    title: 'Paul Brittain',
     author: 'Paul Brittain',
     description: 'Personal blog by Paul Brittain. Quote here.',
     siteUrl: 'https://paulbrittain.net',
@@ -80,7 +80,7 @@ module.exports = {
               return allMarkdownRemark.edges.map(edge => {
                 const siteUrl = site.siteMetadata.siteUrl;
                 const postText = `
-                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at overreacted.io. You can read it online by <a href="${siteUrl +
+                <div style="margin-top=55px; font-style: italic;">(This is an article posted to my blog at paulbrittain.net. You can read it online by <a href="${siteUrl +
                   edge.node.fields.slug}">clicking here</a>.)</div>
               `;
 
@@ -126,7 +126,7 @@ module.exports = {
               }
             `,
             output: '/rss.xml',
-            title: "Paul Brittain's Overreacted Blog RSS Feed",
+            title: "Paul Brittain's Blog RSS Feed",
           },
         ],
       },
