@@ -1,7 +1,9 @@
 ---
-title: Example post title.
-date: '2019-04-19'
-spoiler: Example post spoiler text.
+title: Example Post?
+date: '2019-04-26'
+spoiler: Dependency injection is nice if you don’t have to think about it.
 ---
 
-Example post content.
+Example Content
+
+---
