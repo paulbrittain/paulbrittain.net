@@ -6,7 +6,7 @@ spoiler: The Apple | Google Partnership
 
 All over the world, health organizations, governments, and non-profit organizations are working hard to combat the threat of the COVID-19 pandemic. Software technologists are looking for ways in which to contribute to the collective effort by harnessing the power of technology.
 
-In Europe, an EU consortium "Pan-European Privacy-Preserving Proximity Tracing" (PEPP-PT), proposed a Decentralized Privacy-Preserving Proximity Tracing (DP3T) system. The white paper[[1](https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf)] for the proposed system was analyzed by École polytechnique fédérale de Lausanne (EPFL) researcher Serge Vaudenay[[2](https://eprint.iacr.org/2020/399.pdf)]. **Vaudenary argues that the DP3T system exposes COVID-19 positive users to deanonymization, and coerces users into revealing private information.**
+In Europe, an EU consortium "Pan-European Privacy-Preserving Proximity Tracing" (PEPP-PT), proposed a Decentralized Privacy-Preserving Proximity Tracing (DP3T) system. The white paper[[1](https://github.com/DP-3T/documents/blob/master/DP3T%20White%20Paper.pdf)] for the proposed system was analyzed by École polytechnique fédérale de Lausanne (EPFL) researcher Serge Vaudenay[[2](https://eprint.iacr.org/2020/399.pdf)]. **Vaudenary argues that the DP3T system exposes COVID-19 positive users to deanonymization and coerces users into revealing private information.**
 
 Are software developers and dominant technology companies like Apple and Google contributing to COVID-19 transmission reduction efforts without laying the infrastructure of surveillance and oppression in the process?
 
