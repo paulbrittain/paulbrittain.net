@@ -1,6 +1,6 @@
 ---
 title: Mobile Device COVID-19 Contact Tracing.
-date: '2020-04-11'
+date: '2020-04-12'
 spoiler: The Apple | Google Partnership
 ---
 
