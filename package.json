@@ -29,7 +29,7 @@
     "lint-staged": "^8.1.0",
     "lodash": "^4.17.11",
     "now": "^17.1.1",
-    "prismjs": "^1.15.0",
+    "prismjs": "^1.21.0",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
